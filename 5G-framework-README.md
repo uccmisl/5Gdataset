@@ -1,7 +1,7 @@
 #README for 5G/mmWave simulation framework
 The framework developed runs using the NS3 simulator. This requires some configuration prior to running the program to ensure the environment is set up correctly. Please follow the instructions in this readme to execute the program.
 
-# download the framework from: http://cs1dev.ucc.ie/misl/5Gframework/5G-framework.zip
+### download the framework from: http://cs1dev.ucc.ie/misl/5Gframework/5G-framework.zip
 
 ##Configuring the environment
 These commands are taken directly form the NS3 website and can be found [here](https://www.nsnam.org/docs/tutorial/html/getting-started.html#building-ns-3 "NS3 Tutorial"). The waf executable can be found in the NS3 directory. In this program waf is located at `/ns3-mmwave-new-handover/`. The following commands assume you have changed your working directory to the above location.
